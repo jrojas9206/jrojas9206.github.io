@@ -11,9 +11,9 @@ My medium-term personal objectives are,
 
 Three words that describe my personality in general are:
 
-  1. :deciduous_tree: Calm
-  2. 🧑‍🔬 hard worker
-  3. 🚵‍♂️ positive.  
+1. :deciduous_tree: Calm
+2. 🧑‍🔬 Hard worker
+3. 🚵‍♂️ positive.  
 
 ### Acamdeic degrees
 
