@@ -74,3 +74,4 @@ kramdown:
 
 gist:
   noscript: false
+theme: jekyll-theme-midnight
