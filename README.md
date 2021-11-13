@@ -20,7 +20,7 @@ Three words that describe my personality in general are:
 | Degree       | Year     | Grade     |
 | :------------- | :----------: | -----------: |
 |  Mechatronic Engineer | 2009-2014   | 3.6/5.0    |
-| Msc. Electronics Engineering   | 2016-2018 | 3.7/5.0 |
+| Msc. Electronic Engineering   | 2016-2018 | 3.7/5.0 |
 | Ph.D. Computer Science|2020-2023|  |
 
 ### Professional Experince 
