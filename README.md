@@ -1,37 +1,30 @@
-# Juan P. Rojas B. 
+## Juan P. Rojas B.
+#### Ph.D. student in computer science  at the University of Montpellier
 
-Testing xD
+Passionate about intelligent systems, electronics and plant biology. My actual research is focus in the development of deep learning models that allows a better understanding of the fruit tree architecture development based on the analysis of 3D point clouds.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My medium-term personal objectives are,
+  
+1. :coffee: Improve my french
+2. :pilot: Learn to play piano  
+3. :radioactive: Learn about human history.
 
-### Markdown
+Three words that describe my personality in general are:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  1. :innocent: Calm
+  2. 🧑‍🔬 hard worker
+  3. 🚵‍♂️ positive.  
 
-```markdown
-Syntax highlighted code block
+### Acamdeic degrees
 
-# Header 1
-## Header 2
-### Header 3
+| Degree       | Year     | Grade     |
+| :------------- | :----------: | -----------: |
+|  Mechatronic Engineer | 2009-2014   | 3.6/5.0    |
+| Msc. Electronics Engineering   | 2016-2018 | 3.7/5.0 |
+| Ph.D. Computer Science|2020-2023|  |
 
-- Bulleted
-- List
+### Professional Experince 
 
-1. Numbered
-2. List
+### Publications 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrojas9206/jrojas9206.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Projects 
