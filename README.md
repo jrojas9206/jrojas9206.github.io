@@ -1,7 +1,7 @@
 ## Juan P. Rojas B.
 #### Ph.D. student in computer science  at the University of Montpellier
 
-Passionate about intelligent systems, electronics and plant biology. My actual research is focus in the development of deep learning models that allows a better understanding of the fruit tree architecture development based on the analysis of 3D point clouds.  
+Passionate about intelligent systems, electronics, and plant biology. My current research focuses on the development of deep learning models to improve the understanding of the development of fruit tree architecture.  .  
 
 My medium-term personal objectives are,
   
