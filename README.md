@@ -5,13 +5,13 @@ Passionate about intelligent systems, electronics, and plant biology. My current
 
 My medium-term personal objectives are,
   
-1. :coffee: Improve my french
+1. :cook: Improve my french
 2. :pilot: Learn to play piano  
 3. :radioactive: Learn about human history.
 
 Three words that describe my personality in general are:
 
-  1. :innocent: Calm
+  1. :deciduous_tree: Calm
   2. 🧑‍🔬 hard worker
   3. 🚵‍♂️ positive.  
 
