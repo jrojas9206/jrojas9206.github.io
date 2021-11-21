@@ -46,7 +46,7 @@ I have also worked on the development of computer vision algorithms and data ana
 
 * Electronic Engineer [05/2019 - 01/2020] [INRAE - LEPSE]: Applying image processing and machine learning algorithms for plant segmentation in a phenotyping platform [PhenoArch].  Calibration of RGB cameras. Management of MongoDB and MySQL databases.
 
-* Ph.D. Student [02/2020 - 03/2023] [INRAE - AFEF / LIRMM]: To develop deep learning algorithms for the analysis of point clouds with the main objective of generating a tool that allows a better understanding of the architecture of fruit trees. 
+* Ph.D. Student [02/2020 - 03/2023] [INRAE - AFEF / LIRMM - ICAR]: To develop deep learning algorithms for the analysis of point clouds with the main objective of generating a tool that allows a better understanding of the architecture of fruit trees. 
 
 
 ### Publications 
