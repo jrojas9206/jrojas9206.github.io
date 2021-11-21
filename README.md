@@ -42,6 +42,13 @@ I have also worked on the development of computer vision algorithms and data ana
 
 * Research Assistant [03/2017 - 04/2018]: To propose and implement an algorithm for the creation of a multispectral image mosaic and to apply machine learning algorithms on this mosaic for the estimation of biomass of a rice crop and the detection of hydric stress. 
 
+* Modelling Engineer [05/2018 - 04/2019] [ CIRAD ]: Develop and apply image processing and deep-learning algorithms for the analysis of RGB/multispectral aerial images; RGB fisheye. Estimation of vegetative indices, plant counts and estimation of crop plant altitude.
+
+* Electronic Engineer [05/2019 - 01/2020]: Applying image processing and machine learning algorithms for plant segmentation in a phenotyping platform [PhenoArch].  Calibration of RGB cameras. Management of MongoDB and MySQL databases.
+
+* Ph.D. Student [02/2020 - 03/2023]: To develop deep learning algorithms for the analysis of point clouds with the main objective of generating a tool that allows a better understanding of the architecture of fruit trees. 
+
+
 ### Publications 
 
 * Colorado, Julian D., et al. "A novel NIR-image segmentation method for the precise estimation of above-ground biomass in rice crops." PloS one 15.10 (2020): e0239591.
