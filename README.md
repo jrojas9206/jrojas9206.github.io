@@ -38,7 +38,7 @@ I have also worked on the development of computer vision algorithms and data ana
         * MATLAB for dynamic systems simulation.
         * SciLab introduction
 
-* C++ Developer [02/2016 - 06/2016] [Pontificia Universidad Javeriana 💻]: Development of a graphical user interface for the visualisation of each of the flight variables [Altitude, Speed, GPS, Battery, Imagery, ] returned by the UAV - ASTECT PELICAN. 
+* C++ Developer [02/2016 - 06/2016] [ [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio) 💻]: Development of a graphical user interface for the visualisation of each of the flight variables [Altitude, Speed, GPS, Battery, Imagery, ] returned by the UAV - ASTECT PELICAN. 
 
 * Research Assistant [03/2017 - 04/2018] [[Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio) ]: To propose and implement an algorithm for the creation of a multispectral image mosaic and to apply machine learning algorithms on this mosaic for the estimation of biomass of a rice crop and the detection of hydric stress. 
 
