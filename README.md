@@ -15,6 +15,19 @@ I have also worked on the development of computer vision algorithms and data ana
 | Ph.D. Computer Science      | 2020-2023    | Université de Montpellier         |  */20         |
 
 #### Other courses 
+* SENA
+    * [CURSO ESPECIAL EN FUNDAMENTOS DE METALURGIA](https://certificados.sena.edu.co/default.asp#result) [921500207618CC1019071891E]
+    * [INTRODUCCION A LA ROBOTICA APLICADA](https://certificados.sena.edu.co/default.asp#result)[921400514664CC1019071891E]
+    * [APLICACION DE HERRAMIENTAS METODOLOGICAS EN INVESTIGACION: PROCESOS DE CIENCIA, TECNOLOGIA E INNOVACION](https://certificados.sena.edu.co/default.asp#result) [9232001019109CC1019071891E]
+    * [CONTROLES Y SEGURIDAD INFORMATICA](https://certificados.sena.edu.co/default.asp#result) [9402001027633CC1019071891E]
+    * [CALIDAD EN EL DESARROLLO DE SOFTWARE](https://certificados.sena.edu.co/default.asp#result) [9406001023208CC1019071891E]
+    * [AUTOCAD 2D](https://certificados.sena.edu.co/default.asp#result)[9212001055807CC1019071891E]
+    * [DISENO DE PRODUCTOS ELECTRONICOS CON MICROCONTROLADORES](https://certificados.sena.edu.co/default.asp#result)[9232001067487CC1019071891E]
+    * [APLICACION DE LOS PLC EN LA AUTOMATIZACION DE PROCESOS INDUSTRIALES.](https://certificados.sena.edu.co/default.asp#result)[9105001073682CC1019071891E]
+    * [DESARROLLO DE APLICACIONES CON INTERFAZ GRAFICA, MANEJO DE EVENTOS, CLASES Y OBJETOS: JAVA](https://certificados.sena.edu.co/default.asp#result)[9207001070390CC1019071891E]
+    * [LOS PLC EN LOS SISTEMAS SCADA](https://certificados.sena.edu.co/default.asp#result)[9219001101281CC1019071891E]
+* EdX
+    * [INTRODUCTION TO LINUX](https://s3.amazonaws.com/verify.edx.org/downloads/f9cb432fda3a41b796cf7c540b8c9c51/Certificate.pdf) 
 
 ### Professional Experince 
 
