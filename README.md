@@ -44,9 +44,9 @@ I have also worked on the development of computer vision algorithms and data ana
 
 * Modelling Engineer [05/2018 - 04/2019] [ CIRAD ]: Develop and apply image processing and deep-learning algorithms for the analysis of RGB/multispectral aerial images; RGB fisheye. Estimation of vegetative indices, plant counts and estimation of crop plant altitude.
 
-* Electronic Engineer [05/2019 - 01/2020]: Applying image processing and machine learning algorithms for plant segmentation in a phenotyping platform [PhenoArch].  Calibration of RGB cameras. Management of MongoDB and MySQL databases.
+* Electronic Engineer [05/2019 - 01/2020] [INRAE - LEPSE]: Applying image processing and machine learning algorithms for plant segmentation in a phenotyping platform [PhenoArch].  Calibration of RGB cameras. Management of MongoDB and MySQL databases.
 
-* Ph.D. Student [02/2020 - 03/2023]: To develop deep learning algorithms for the analysis of point clouds with the main objective of generating a tool that allows a better understanding of the architecture of fruit trees. 
+* Ph.D. Student [02/2020 - 03/2023] [INRAE - AFEF / LIRMM]: To develop deep learning algorithms for the analysis of point clouds with the main objective of generating a tool that allows a better understanding of the architecture of fruit trees. 
 
 
 ### Publications 
