@@ -28,6 +28,8 @@ I have also worked on the development of computer vision algorithms and data ana
     * [LOS PLC EN LOS SISTEMAS SCADA](https://certificados.sena.edu.co/default.asp#result)[9219001101281CC1019071891E]
 * EdX
     * [INTRODUCTION TO LINUX](https://s3.amazonaws.com/verify.edx.org/downloads/f9cb432fda3a41b796cf7c540b8c9c51/Certificate.pdf) 
+* Deep Learning Institute - NVIDIA
+    *   [FUNDAMENTALS OF DEEP LEARNING FOR MULTI-GPUS](https://courses.nvidia.com/certificates/cfe21aaf27864dd79293e69d3824fde6)
 
 ### Professional Experince 
 
