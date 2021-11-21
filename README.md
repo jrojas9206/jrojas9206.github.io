@@ -15,6 +15,10 @@ I have also worked on the development of computer vision algorithms and data ana
 | Ph.D. Computer Science      | 2020-2023    | Université de Montpellier         |  */20         |
 
 #### Other courses 
+* Deep Learning Institute - NVIDIA
+    *   [FUNDAMENTALS OF DEEP LEARNING FOR MULTI-GPUS](https://courses.nvidia.com/certificates/cfe21aaf27864dd79293e69d3824fde6)
+* EdX
+    * [INTRODUCTION TO LINUX](https://s3.amazonaws.com/verify.edx.org/downloads/f9cb432fda3a41b796cf7c540b8c9c51/Certificate.pdf) 
 * SENA
     * [CURSO ESPECIAL EN FUNDAMENTOS DE METALURGIA](https://certificados.sena.edu.co/default.asp#result) [921500207618CC1019071891E]
     * [INTRODUCCION A LA ROBOTICA APLICADA](https://certificados.sena.edu.co/default.asp#result)[921400514664CC1019071891E]
@@ -26,10 +30,6 @@ I have also worked on the development of computer vision algorithms and data ana
     * [APLICACION DE LOS PLC EN LA AUTOMATIZACION DE PROCESOS INDUSTRIALES.](https://certificados.sena.edu.co/default.asp#result)[9105001073682CC1019071891E]
     * [DESARROLLO DE APLICACIONES CON INTERFAZ GRAFICA, MANEJO DE EVENTOS, CLASES Y OBJETOS: JAVA](https://certificados.sena.edu.co/default.asp#result)[9207001070390CC1019071891E]
     * [LOS PLC EN LOS SISTEMAS SCADA](https://certificados.sena.edu.co/default.asp#result)[9219001101281CC1019071891E]
-* EdX
-    * [INTRODUCTION TO LINUX](https://s3.amazonaws.com/verify.edx.org/downloads/f9cb432fda3a41b796cf7c540b8c9c51/Certificate.pdf) 
-* Deep Learning Institute - NVIDIA
-    *   [FUNDAMENTALS OF DEEP LEARNING FOR MULTI-GPUS](https://courses.nvidia.com/certificates/cfe21aaf27864dd79293e69d3824fde6)
 
 ### Professional Experince 
 
