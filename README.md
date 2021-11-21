@@ -1,4 +1,4 @@
-## Juan P. Rojas B.
+## 🤖 💻 ✈️ 🌳 
 #### Ph.D. student in computer science  at the University of Montpellier
 
 Passionate about intelligent systems, electronics, and plant biology. My current research focuses on the development of deep learning models to improve the understanding of the development of fruit tree architecture. 
