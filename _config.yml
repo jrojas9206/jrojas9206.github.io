@@ -7,7 +7,7 @@ layouts_dir         : _layouts
 data_dir            : _data
 includes_dir        : _includes
 title               : Juan P. Rojas B. 
-description         : Juan P. Rojas webpage
+description         : Ph.D. Student in Computer Science 
 sass:
   sass_dir: _sass
 collections:
