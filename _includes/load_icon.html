@@ -1,0 +1,11 @@
+<div style="clear: both;">
+    <div style="float: left; margin-right 1em;">
+        <a href="{{ include.refLink }}">
+            <img src="{{ include.image_path }}" alt="" width=15 height=15>
+        </a>
+    </div>
+    <div>
+      <h2>{{ include.title }}</h2>
+      {{ include.description | markdownify }}
+    </div>
+</div>
