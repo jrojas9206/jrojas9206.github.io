@@ -1,9 +1,9 @@
-<div style="clear: both;">
-    <div style="align-items: center; width: 100%">
-            <img src="{{ include.image_path }}" alt="" width=50 height=50>
-    </div>
-    <div>
+<div style="clear: both; text-align: center;">
+  <div style="display: flex; justify-content: center; width: 100%;">
+      <img src="{{ include.image_path }}" alt="" style="max-width: 100%; height: auto;">
+  </div>
+  <div>
       <h2>{{ include.title }}</h2>
       {{ include.description | markdownify }}
-    </div>
+  </div>
 </div>
