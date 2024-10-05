@@ -15,7 +15,7 @@ In my plans for this site, I'll start with simple projects and theories, gradual
 
 Additionally, I want to highlight that if you feel I can collaborate with you on a project or publication, don't hesitate to write to me. If you see something that can be improved or is incorrect, please reach out, but be clear and provide a reference to ensure that the correction is accurate. In previous blogs and posts, I've noticed that people often judge without providing arguments or references. From my point of view, we always need to justify and prove that what we are saying is correct.
 
-If you've read this far, thank you. I hope the words, code, and images I share in this space will be useful to you and contribute to your path or work.
+If you've read this far, thank you. I hope the words, code, and images I will share in this space will be useful to you and contribute to your path or work.
 
 Have a great day.
 
