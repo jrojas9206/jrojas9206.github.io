@@ -4,10 +4,12 @@ title: Contact me
 permalink: /contact_me/
 ---
 
-You can reach me on the following platforms:
 
-🧑‍💼: https://www.linkedin.com/in/rojas-bustos-juan-pablo/
+## Reach me on
 
-💡: https://github.com/jrojas9206
-
-📧: jprojas9206@gmail.com 
+<a href="https://www.linkedin.com/in/rojas-bustos-juan-pablo/">
+    LinkedIn <img src="images/linkedin.png" width=15 heigth=15/> </a> 
+    
+<a href="mailto:jprojas9206@gmail.com"> 
+    gmail <img src="images/gmail.jpg" width=15 height=15/>
+</a>
