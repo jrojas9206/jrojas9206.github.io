@@ -12,10 +12,10 @@ I love reading science fiction novels (🤖, 👽), drawing plants 🥀, rodents
 
 My mother tongue is Spanish, I'm proficient in English and French, I also speak Portuguese (but I'm a bit rusty), and I'm also learning Russian.
 
-If you have a job offer :astronaut:, you want to develop a project 🚀 or you are interested in taking some classes with me 🧑‍🏫, do not hesitate to contact me!  🌟 🤩
+If you have a job offer 👨‍🚀, you want to develop a project 🚀 or you are interested in taking some classes with me 🧑‍🏫, do not hesitate to contact me!  🌟 🤩
 
 Thank you for reading my profile, I wish you a great day!
 
 And hope to hear from you soon!
 
-:call_me_hand:
+🤝
