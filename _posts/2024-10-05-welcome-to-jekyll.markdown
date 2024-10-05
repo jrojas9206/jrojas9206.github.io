@@ -4,9 +4,7 @@ title:  "Welcome to Pablo's Site"
 date:   2024-10-05 09:41:36 +0300
 categories: Personal
 ---
-<center>
-My first publication!!! 🫣</h2>
-</center>
+
 <center>
   <img src="https://img.freepik.com/free-photo/3d-apple-illustration_23-2151800417.jpg?t=st=1728152410~exp=1728156010~hmac=092f167a406bce6000b03a972acbbc950185142e05a097017a8fc07a4963a0a4&w=1800" width=100%  />
 </center>
