@@ -9,7 +9,7 @@ categories: Personal
 
 I'm starting this site because, for about a month now 📆, I've been thinking about sharing some of the projects and skills I've developed over the years. I also want a place to save 📖 and share specialized notes 🧑‍🏫 for students and other professionals interested in robotics, computer vision, embedded systems, and machine learning.
 
-I'm also very interested in learning to use Jekyll and this incredibly useful space that GitHub offers to all of us. For now, you will find this small dot in the vast space of the internet to be quite simple, but I will be working to make it more interesting every week from now on.
+I'm also very interested in learning to use Jekyll and this incredibly useful space that GitHub offers to all of us (I'm using github pages 🤔). For now, you will find this small dot in the vast space of the internet to be quite simple, but I will be working to make it more interesting over the time.
 
 In my plans for this site, I'll start with simple projects and theories, gradually increasing the complexity with each post. This will constitute a virtual technical diary.
 

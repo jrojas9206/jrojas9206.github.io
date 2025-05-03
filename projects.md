@@ -5,11 +5,11 @@ permalink: /projects/
 ---
 ## Introduction 
 
-In this section you will find posts related to the projects I have developed and released. My goal is to publish a new project and its documentation every two weeks, usually on weekends, as I am currently working late and cannot complete the posts any faster.
+In this section you will find posts related to the projects I have developed and released. My goal is to publish a new project every few weeks, and usually on weekends, as I am currently working late and cannot complete the posts any faster.
 
-Each project will generally be developed as a single package or library in Python, C++, or Java, depending on the flavor of the week.
+Each project will generally be developed as a single package or library in Python, C++, Java, Rust or Go, depending on the flavor of the week.
 
-The Python projects are structured as follows:
+The Python projects are usually structured as follows:
 
 ```
 📦repo
@@ -43,12 +43,3 @@ The C++/Java projects will structured as follows:
  ┣ 📜README.md
  ┗ 📜requirements.txt
 ```
-
-# 1. Computer vision 
-  - In progress [started 241008]
-  
-# 2. Robotics 
-
-# 3. Embedded Systems 
-
-# 4. Others 
